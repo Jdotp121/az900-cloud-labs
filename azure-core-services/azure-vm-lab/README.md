@@ -74,3 +74,9 @@ az vm extension set \
 Result:
 The NGINX installation script ran successfully and provisioned the server.
 
+## 📸 Screenshots
+
+| Step                | Screenshot                                |
+|---------------------|--------------------------------------------|
+| VM Creation Command | ![](./screenshots/vm-create-cli.png)       |
+| Extension Output    | ![](./screenshots/nginx-extension-success.png) |
